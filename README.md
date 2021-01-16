@@ -48,9 +48,9 @@ Thanks to the wonderful people who created them!
 
 ## Issues
 
-- Some of the AVs are detecting it as malicious, but I have reported the FP -
+- Some of the AVs are detecting it as malicious, but I have reported it as an FP -
 
-https://www.virustotal.com/gui/file/416bb1952815adc70c444efd0fe1a5507eb24917ed87852979720ed6cd738a51/detection
+https://www.virustotal.com/gui/file/79d8adc61a1ac2c38503501ee48feb0e4e92a8d21696b1bbc2d142f0e5fff101/detection
 
 - Tested on Mariko only
 
